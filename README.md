@@ -12,7 +12,7 @@
 ### 2. Schema 
 ![image alt](https://github.com/Clovie8/plsql-window-functions-DUKUNDIMANA-Clovis/blob/21e0baa5b98d6578b26983dee0ebd5dcd2bb0ee8/Screenshots/ER%20Diagram.png)
 ### 3. Queries
-
+<pre>
 -- 3: DATABASE SCHEMA
 -- ==================
 
@@ -195,7 +195,7 @@ FROM
     customer_revenue
 ORDER BY
     total_revenue DESC;
-
+</pre>
 
     
 ### 4. References
