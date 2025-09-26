@@ -1,17 +1,17 @@
 # plsql-window-functions-DUKUNDIMANA-Clovis
 
 ### 1. Problem
-**Business Context:** This check is for Rwanda Bean Masters, a group that sends coffee all around, from Kigali, Rwanda. The data is in the hands of the Sales and Marketing team, who look over sales within the country, in many areas.
+Rwanda Bean Masters was unable to analyze its raw sales data to identify key business trends, top customers, and growth patterns.
 
-**Data Challenge:** The company gets a lot of sale data yet doesn't have the right tools to make sense of it. They struggle to spot the best-selling items in main areas, see how sales change each month, or break down their customers for special deals.
-
-**Insights:** This study will give clear tips to help manage stock by filling up on items that many want. It will guide the marketing plan by pointing out which groups of buyers bring in the most money. Also, it will aid leaders to check on how well the business is doing by looking at growth over time.
-
+### 2. Insights 
+This study will give clear tips to help manage stock by filling up on items that many want. It will guide the marketing plan by pointing out which groups of buyers bring in the most money. Also, it will aid leaders to check on how well the business is doing by looking at growth over time.
 
 
-### 2. Schema 
+
+### 3. Schema 
 ![image alt](https://github.com/Clovie8/plsql-window-functions-DUKUNDIMANA-Clovis/blob/21e0baa5b98d6578b26983dee0ebd5dcd2bb0ee8/Screenshots/ER%20Diagram.png)
-### 3. Queries
+
+### 4. Queries
 <pre>
 -- 3: DATABASE SCHEMA
 -- ==================
@@ -198,7 +198,7 @@ ORDER BY
 </pre>
 
     
-### 4. References
+### 5. References
 
 - Oracle Corporation. (2023). Oracle Database SQL Language Reference, 23c. Retrieved from https://docs.oracle.com/en/database/oracle/oracle-database/23/sqlrf/
 
